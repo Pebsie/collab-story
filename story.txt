@@ -1,1 +1,4 @@
 Once there was a
+ frog, who sat happily upon a log. 
+He counted to ten, then started again,
+Because he was programmed in Prolog.
